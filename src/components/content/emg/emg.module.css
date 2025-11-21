@@ -1,0 +1,47 @@
+.ecgContainer {
+  margin: 0 auto;
+  padding: 20px 50px;
+  border-radius: 12px;
+  line-height: 1.6;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+/* 
+.heading {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 15px;
+  color: #2c3e50;
+  text-align: center;
+} */
+
+.subHeading {
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: #000000;
+}
+
+.paragraph {
+  margin-bottom: 12px;
+  color: #000000;
+  font-size: 16px;
+}
+
+.list {
+  margin: 10px 0 20px 20px;
+  padding-left: 20px;
+  color: #000000;
+}
+
+.list li {
+  margin-bottom: 6px;
+}
+.ecgImage{
+  width:700px;
+  height:auto;
+  margin: 0 auto;
+  border-radius: 12px;
+  margin-left:  10%;
+  mix-blend-mode: darken;
+}
