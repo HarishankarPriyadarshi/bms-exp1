@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./Instruction.module.css";
+import styles from "./instruction.module.css";
 
 export const Instruction = () => {
   return (
